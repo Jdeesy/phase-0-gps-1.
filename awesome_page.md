@@ -7,7 +7,9 @@ awesome_page
 - a
 - list
 
-*this is bold*
+
+**this is bold**
+
 
 _this is emphasized_
 
@@ -22,3 +24,4 @@ end
   end
 
 [Readme](./README.md)
+
